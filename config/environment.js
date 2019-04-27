@@ -7,11 +7,7 @@ module.exports = function(environment) {
     rootURL: '/',
     locationType: 'auto',
     firebase:{
-      apiKey: "AIzaSyDNo2ySETN0pGwwM1pHMeA1OgCGPwbXOnQ",
-      authDomain: "s1g1-blog-80c19.firebaseapp.com",
-      databaseURL: "https://s1g1-blog-80c19.firebaseio.com",
-      storageBucket: "s1g1-blog-80c19.appspot.com",
-      messagingSenderId: "961748499016"
+      
     },
 
     contentSecurityPolicy:{
